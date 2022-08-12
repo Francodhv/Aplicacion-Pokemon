@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winFormPokemon", "ejemplos-ado-net\winFormPokemon.csproj", "{FBD8A744-7274-42E3-AA44-CE80F1A43A73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "Dominio\dominio.csproj", "{B05901F1-4E11-4966-9E57-775FEF7978C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{23ADEE77-1F06-4D9E-A8A5-BACEAC568505}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD8A744-7274-42E3-AA44-CE80F1A43A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD8A744-7274-42E3-AA44-CE80F1A43A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD8A744-7274-42E3-AA44-CE80F1A43A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD8A744-7274-42E3-AA44-CE80F1A43A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05901F1-4E11-4966-9E57-775FEF7978C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05901F1-4E11-4966-9E57-775FEF7978C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05901F1-4E11-4966-9E57-775FEF7978C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05901F1-4E11-4966-9E57-775FEF7978C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23ADEE77-1F06-4D9E-A8A5-BACEAC568505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23ADEE77-1F06-4D9E-A8A5-BACEAC568505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23ADEE77-1F06-4D9E-A8A5-BACEAC568505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23ADEE77-1F06-4D9E-A8A5-BACEAC568505}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BA559D9-00B6-41D7-987E-C8FB9157EF98}
+	EndGlobalSection
+EndGlobal
